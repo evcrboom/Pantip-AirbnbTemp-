@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Pantip-AirbnbTemp-/static/css/main.edfcbedd.css",
+    "main.css": "/Pantip-AirbnbTemp-/static/css/main.41828ae4.css",
     "main.js": "/Pantip-AirbnbTemp-/static/js/main.53d17c4d.js",
     "static/js/453.76c0a13c.chunk.js": "/Pantip-AirbnbTemp-/static/js/453.76c0a13c.chunk.js",
     "static/media/revicons.eot": "/Pantip-AirbnbTemp-/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/Pantip-AirbnbTemp-/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/Pantip-AirbnbTemp-/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Pantip-AirbnbTemp-/index.html",
-    "main.edfcbedd.css.map": "/Pantip-AirbnbTemp-/static/css/main.edfcbedd.css.map",
+    "main.41828ae4.css.map": "/Pantip-AirbnbTemp-/static/css/main.41828ae4.css.map",
     "main.53d17c4d.js.map": "/Pantip-AirbnbTemp-/static/js/main.53d17c4d.js.map",
     "453.76c0a13c.chunk.js.map": "/Pantip-AirbnbTemp-/static/js/453.76c0a13c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.edfcbedd.css",
+    "static/css/main.41828ae4.css",
     "static/js/main.53d17c4d.js"
   ]
 }
