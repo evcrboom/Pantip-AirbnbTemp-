@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Pantip-AirbnbTemp-/static/css/main.f635a6c5.css",
-    "main.js": "/Pantip-AirbnbTemp-/static/js/main.3fba44df.js",
+    "main.js": "/Pantip-AirbnbTemp-/static/js/main.68a2f1c1.js",
     "static/js/453.76c0a13c.chunk.js": "/Pantip-AirbnbTemp-/static/js/453.76c0a13c.chunk.js",
     "static/media/revicons.eot": "/Pantip-AirbnbTemp-/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/Pantip-AirbnbTemp-/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/Pantip-AirbnbTemp-/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Pantip-AirbnbTemp-/index.html",
     "main.f635a6c5.css.map": "/Pantip-AirbnbTemp-/static/css/main.f635a6c5.css.map",
-    "main.3fba44df.js.map": "/Pantip-AirbnbTemp-/static/js/main.3fba44df.js.map",
+    "main.68a2f1c1.js.map": "/Pantip-AirbnbTemp-/static/js/main.68a2f1c1.js.map",
     "453.76c0a13c.chunk.js.map": "/Pantip-AirbnbTemp-/static/js/453.76c0a13c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f635a6c5.css",
-    "static/js/main.3fba44df.js"
+    "static/js/main.68a2f1c1.js"
   ]
 }
