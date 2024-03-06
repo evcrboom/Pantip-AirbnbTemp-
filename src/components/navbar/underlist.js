@@ -16,22 +16,22 @@ import EmojiEmotionsIcon from "@mui/icons-material/EmojiEmotions";
 import CollectionsIcon from "@mui/icons-material/Collections";
 
 const underList = [
-  { id: 1, text: "สีลม", logo: <LocalFireDepartmentIcon /> },
-  { id: 2, text: "ซิลิคอนวัลเลย์", logo: <IntegrationInstructionsIcon /> },
-  { id: 3, text: "รัชดา", logo: <TwoWheelerIcon /> },
-  { id: 4, text: "พรหมชาติ", logo: <SettingsIcon /> },
-  { id: 5, text: "ชานเรือน", logo: <FamilyRestroomIcon /> },
-  { id: 6, text: "ภูมิภาค", logo: <FlagIcon /> },
-  { id: 7, text: "บางขุนพรม", logo: <LiveTvIcon /> },
-  { id: 8, text: "กล้อง", logo: <CameraAltIcon /> },
-  { id: 9, text: "ไกลบ้าน", logo: <FlightTakeoffIcon /> },
-  { id: 10, text: "เฉลิมกรุง", logo: <MusicNoteIcon /> },
-  { id: 11, text: "บลูแพลนเน็ต", logo: <TravelExploreIcon /> },
-  { id: 12, text: "ราชดำเนิน", logo: <SportsMmaIcon /> },
-  { id: 13, text: "การ์ตูน", logo: <EmojiNatureIcon /> },
-  { id: 14, text: "สวนลุมพินี", logo: <FavoriteIcon /> },
-  { id: 15, text: "พันทิป", logo: <EmojiEmotionsIcon /> },
-  { id: 16, text: "แกลเลอรี่", logo: <CollectionsIcon /> },
+  { id: 1, text: "สีลม", logo: <LocalFireDepartmentIcon sx={{color: "#941AA1"}} /> },
+  { id: 2, text: "ซิลิคอนวัลเลย์", logo: <IntegrationInstructionsIcon sx={{color: "#941AA1"}} /> },
+  { id: 3, text: "รัชดา", logo: <TwoWheelerIcon sx={{color: "#941AA1"}} /> },
+  { id: 4, text: "พรหมชาติ", logo: <SettingsIcon sx={{color: "#941AA1"}} /> },
+  { id: 5, text: "ชานเรือน", logo: <FamilyRestroomIcon sx={{color: "#941AA1"}} /> },
+  { id: 6, text: "ภูมิภาค", logo: <FlagIcon sx={{color: "#941AA1"}} /> },
+  { id: 7, text: "บางขุนพรม", logo: <LiveTvIcon sx={{color: "#941AA1"}} /> },
+  { id: 8, text: "กล้อง", logo: <CameraAltIcon sx={{color: "#941AA1"}} /> },
+  { id: 9, text: "ไกลบ้าน", logo: <FlightTakeoffIcon sx={{color: "#941AA1"}} /> },
+  { id: 10, text: "เฉลิมกรุง", logo: <MusicNoteIcon sx={{color: "#941AA1"}} /> },
+  { id: 11, text: "บลูแพลนเน็ต", logo: <TravelExploreIcon sx={{color: "#941AA1"}} /> },
+  { id: 12, text: "ราชดำเนิน", logo: <SportsMmaIcon sx={{color: "#941AA1"}} /> },
+  { id: 13, text: "การ์ตูน", logo: <EmojiNatureIcon sx={{color: "#941AA1"}} /> },
+  { id: 14, text: "สวนลุมพินี", logo: <FavoriteIcon sx={{color: "#941AA1"}} /> },
+  { id: 15, text: "พันทิป", logo: <EmojiEmotionsIcon sx={{color: "#941AA1"}} /> },
+  { id: 16, text: "แกลเลอรี่", logo: <CollectionsIcon sx={{color: "#941AA1"}} /> },
 ];
 
 export default underList;

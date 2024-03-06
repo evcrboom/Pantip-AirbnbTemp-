@@ -82,7 +82,7 @@ function Navbar() {
         </div>
         <div className="Navbar__mid">
           <div className="mid__search mid">
-            <AddCircleOutlinedIcon sx={{ color: "purple" }} />
+            <AddCircleOutlinedIcon sx={{ color: "#3C3963" }} />
             <input
               id="search"
               type="text"
@@ -90,11 +90,11 @@ function Navbar() {
             />
           </div>
           <div className="mid__createPost mid">
-            <AddCircleOutlinedIcon sx={{ color: "purple" }} />
+            <AddCircleOutlinedIcon sx={{ color: "#3C3963" }} />
             <p>ตั้งกระทู้</p>
           </div>
           <div className="mid__community mid">
-            <PeopleIcon sx={{ color: "purple" }} />
+            <PeopleIcon sx={{ color: "#3C3963" }} />
             <p>คอมมู</p>
           </div>
         </div>
@@ -103,7 +103,7 @@ function Navbar() {
       <div className="Navbar__under">
         <div className="under__lists">
           <Carousel responsive={responsive} className="under__list">
-            {underList.map((element, index) => {
+            {underList.map((element) => {
               return (
                 <div className="list__element" key={element.id}>
                   {element.logo} <p>{element.text}</p>

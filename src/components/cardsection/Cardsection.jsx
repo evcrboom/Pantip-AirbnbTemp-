@@ -15,7 +15,7 @@ function Cardsection() {
                   <div className="preview__highlight">{element.tag}</div>
                 ) : null}
                 <div className="preview__favorite">
-                  <FavoriteTwoToneIcon sx={{ color: "purple", fontSize: 30 }} />
+                  <FavoriteTwoToneIcon sx={{ color: "#941AA1", fontSize: 30 }} />
                 </div>
                 <div className="preview__avatar">
                   <Avatar>{element.avatar}</Avatar>
